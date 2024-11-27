@@ -1,5 +1,5 @@
 # CS50AI-projects
-The CS50's Introduction to Artificial Intelligence with Python course, I deepened my understanding of AI concepts and got me hands on experience through projects.
+The CS50's Introduction to Artificial Intelligence with Python course, I deepened my understanding of AI concepts and got experience through projects.
 
 The following concepts where being addressed.
 
