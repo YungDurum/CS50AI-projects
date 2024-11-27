@@ -13,6 +13,6 @@ The following concepts where being addressed.
 
 6.   Worked with Convolutional Neural Networks: I learned to build and train convolutional neural networks (CNNs). I applied CNNs to projects related to traffic analysis, enhancing my understanding of how AI can interpret visual data.
 
-7.    Explored Recurrent Neural Networks and Language Models: I delved into recurrent neural networks (RNNs) and their applications in processing sequential data. I learned how to build and train language models. 
+7.    Explored Recurrent Neural Networks and Language Models: I deepend my knowlegde of recurrent neural networks (RNNs) and their applications in processing sequential data. I learned how to build and train language models. 
    
 For any details about the projects feel free to ask.
