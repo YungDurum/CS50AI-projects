@@ -1,0 +1,3 @@
+In the CS50 AI Shopping project, I built a program that predicts if a customer will buy something based on their past shopping habits. 
+I used techniques like data cleaning, feature extraction, and the k-nearest neighbors (k-NN) algorithm for supervised learning. 
+I also tested and fine-tuned the model to improve its accuracy
